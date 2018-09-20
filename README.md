@@ -2,7 +2,7 @@
 
 ## WorldBit ICO
 
-The WorldBit inital ICO smart contract is represented by the file: 
+The WorldBit inital ICO smart contract is the file: 
 
 contracts/Crowdsale.sol
 
@@ -10,7 +10,7 @@ This smart contract handled the first WorldBit token (WBT) ICO launch.
 
 ## WorldBit Token
 
-The WorldBit Token smart contract is represented by the file: 
+The WorldBit Token smart contract is the file: 
 
 contracts/CrowdsaleToken.sol
 
